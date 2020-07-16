@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sha/Documents/DSmeetings/mlflow/Demo/Simon/mlflowdemo/mlruns/0/da2bfebde5d847ceab862d8a306d29ee/artifacts
+end_time: 1594909325683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: da2bfebde5d847ceab862d8a306d29ee
+run_uuid: da2bfebde5d847ceab862d8a306d29ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1594909325592
+status: 3
+tags: []
+user_id: sha
