@@ -7,5 +7,5 @@ entry_points:
   main:
     parameters:
       alpha: float
-      l1_ratio: {type: float, default: 0.1}
+      l1_ratio: {type: float, default: 0.5}
     command: "python main.py --alpha {alpha} --l1-ratio {l1_ratio}"
